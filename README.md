@@ -1,2 +1,2 @@
 # HW-Wireframe
-Repo created for first HW assignment with GT
+Created as part of first homework assignment with GT coding camp
