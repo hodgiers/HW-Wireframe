@@ -1,0 +1,28 @@
+div {
+	background-color: 
+#cccccc;
+}
+
+div.student {
+	background-color: 
+dimgrey;
+	position: absolute;
+	padding: 10px;
+	bottom:0;
+	right: -20px;
+
+}
+
+
+body {
+	padding-left: 20%;
+	padding-right: 20%;
+
+}
+
+.relative {
+	height: 200px;
+	position: relative;
+}
+
+.
